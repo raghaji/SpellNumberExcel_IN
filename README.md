@@ -1,6 +1,6 @@
 # SpellNumberExcel_IN
-This VB code for spell number in indian number method. You need to import this module in MS Excel VB.
-1.Download the VB.bas file.
+This VB code for spell number in indian number method. You need to import this module in MS Excel VB.\n
+1.Download the VB.bas file.\n
 2.Open excel File.
 3. Press Alt + F11.It will open Visual Basic.
 4. File > Import
