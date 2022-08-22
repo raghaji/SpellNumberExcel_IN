@@ -8,4 +8,4 @@
 6. Click on Save. and close Visual Basic.  
 And your good to use SpellNumber formula to convert number in text. Output will be in indian number format.  
 # Example:
-* * =spellnumber(N)  
+=spellnumber(N)  
